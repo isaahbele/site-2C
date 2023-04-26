@@ -29,3 +29,27 @@
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+.escola {
+    background-image: linear-gradient(#F9DEDE, #fcf9f9);
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 24px;
+}
+
+.escola-div-conteudo {
+    width: 50%;
+}
+
+.escola-titulo {
+    padding: 24px 0;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.imagem-escola {
+    width: 30%;
+    height: 300px;
+    border-radius: 82px;
+}
