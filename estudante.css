@@ -99,6 +99,10 @@ estudante-div {
     text-align: center;
 }
 
+.estudante-nome {
+    font-size: 14px;
+}
+
 .rodape {
     background-image: linear-gradient(#6C00C0, #1C0032);
     color: white;
